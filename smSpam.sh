@@ -6,4 +6,4 @@ git clone https://github.com/WattanaGaming/Spammer-Grab-1 Spammer-Grab
 chmod +x Spammer-Grab
 cd Spammer-Grab
 chmod 777 spammer.py
-python2 spammer.py
+
